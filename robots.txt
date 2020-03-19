@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://aehohburu.agranieri.ca/sitemap.xml
